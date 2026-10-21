@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" appversion="7.1.11" start="node3" apprev="21010">
+  <panorama id="node3" hideabout="1">
+    <input height="2322" levelbiashidpi="1.500" leveltilesize="510" levelbias="0.800" levelingroll="0" levelingpitch="0" width="2322" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2322" height="2322" predecode="0" preload="0"/>
+      <level width="1161" height="1161" predecode="0" preload="0"/>
+      <level width="580" height="580" predecode="0" preload="0"/>
+      <level width="290" height="290" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="91.4">
+      <start fov="100" projection="4" pan="-4.56" tilt="7.2"/>
+      <flyin fov="330" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" nodeid="node3" heading="91.4" datetime="2026:09:17 11:03:54" longitude="" description="Манастир Свете Петке у Улију је женски манастир епархије рашко-призренске Српске православне цркве.&#xa;&#xa;Манастир је смештен у атару села Улије, изнад Лепосавића. Потиче из 13. века. Са благословом владике Артемија, конак је подигнут и проглашен за женски манастир. После суспензије владике Артемија, управа манастира је промењена, али је и даље остао женски манастир. Од 2013. године у манастиру живи свештеник са породицом. Доласком младих монахиња из манастира Кончул манастир Улије бива обновљен 2018. године и изграђена је нова црква уз благослов владике Рашко-призренског Теодосија. Манастир Света Петка, један од два женска манастира на северу Космета, вековима је на брду Градац, на 560 метара надморске висине подно висова Копаоника" source="" latitude="" tags="Ulije" title="Звоник" customnodeid="" copyright="" comment="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label height="20" border="1" borderalpha="1" backgroundalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot target="" url="{node1}" id="Point01" title="Црква Св. Петке" pan="-357.64" description="" skinid="ht_node" tilt="-1.37"/>
+      <hotspot target="" url="{node4}" id="Point02" title="Црква Север" pan="-335.46" description="" skinid="ht_node" tilt="1.06"/>
+      <hotspot target="" url="{node6}" id="Point03" title="Црква Југ" pan="-19.68" description="" skinid="ht_node" tilt="0.21"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0.000" level="1.000" nodechangekeep="1" pansize="10.000" loop="1" tiltsize="10.000" startmutedmobile="0" pan="-1.000" id="_background" field="90.000" mode="0" tilt="-1.000">
+        <source url="media/manastir Ulije.wav" mono="1"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" type="mesh" blendcolor="0x000000" zoomafteroutfov="40" delay="none" zoomfov="40" zoomafterinfov="140" zoomspeed="2" enabled="1" softedge="0" zoomin="7" blendtime="1" zoomout="0"/>
+    <autorotate returntohorizon="0.000" noderandom="1" useanimation="0" speed="0.100" startloaded="0" delay="10.00" nodedelay="60.00" nodefilter="" enabled="1" horizonfromdefview="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" rubberband="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" lockedkeyboard="0" contextvr="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="1" speedwheel="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input height="2322" levelbiashidpi="1.500" leveltilesize="510" levelbias="0.800" levelingroll="0" levelingpitch="0" width="2322" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2322" height="2322" predecode="0" preload="0"/>
+      <level width="1161" height="1161" predecode="0" preload="0"/>
+      <level width="580" height="580" predecode="0" preload="0"/>
+      <level width="290" height="290" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="95.3">
+      <start fov="100" projection="4" pan="-4.5" tilt="-1.88"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" nodeid="node1" heading="95.3" datetime="2026:09:17 10:44:17" longitude="" description="Манастир Свете Петке у Улију је женски манастир епархије рашко-призренске Српске православне цркве.&#xa;&#xa;Манастир је смештен у атару села Улије, изнад Лепосавића. Потиче из 13. века. Са благословом владике Артемија, конак је подигнут и проглашен за женски манастир. После суспензије владике Артемија, управа манастира је промењена, али је и даље остао женски манастир. Од 2013. године у манастиру живи свештеник са породицом. Доласком младих монахиња из манастира Кончул манастир Улије бива обновљен 2018. године и изграђена је нова црква уз благослов владике Рашко-призренског Теодосија. Манастир Света Петка, један од два женска манастира на северу Космета, вековима је на брду Градац, на 560 метара надморске висине подно висова Копаоника" source="" latitude="" tags="Ulije" title="Црква Св. Петке" customnodeid="" copyright="" comment="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label height="20" border="1" borderalpha="1" backgroundalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot target="" url="{node2}" id="Point01" title="Иконостас" pan="-16.66" description="" skinid="ht_node" tilt="-20.8"/>
+      <hotspot target="" url="{node3}" id="Point02" title="Звоник" pan="-180.41" description="" skinid="ht_node" tilt="-10.49"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0.000" level="1.000" nodechangekeep="1" pansize="10.000" loop="1" tiltsize="10.000" startmutedmobile="0" pan="-1.000" id="_background" field="90.000" mode="0" tilt="-1.000">
+        <source url="media/manastir Ulije.wav" mono="1"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" type="mesh" blendcolor="0x000000" zoomafteroutfov="40" delay="none" zoomfov="40" zoomafterinfov="140" zoomspeed="2" enabled="1" softedge="0" zoomin="7" blendtime="1" zoomout="0"/>
+    <autorotate returntohorizon="0.000" noderandom="1" useanimation="0" speed="0.100" startloaded="0" delay="10.00" nodedelay="60.00" nodefilter="" enabled="1" horizonfromdefview="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" rubberband="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" lockedkeyboard="0" contextvr="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="1" speedwheel="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input height="2322" levelbiashidpi="1.500" leveltilesize="510" levelbias="0.800" levelingroll="0" levelingpitch="0" width="2322" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2322" height="2322" predecode="0" preload="0"/>
+      <level width="1161" height="1161" predecode="0" preload="0"/>
+      <level width="580" height="580" predecode="0" preload="0"/>
+      <level width="290" height="290" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="95.8">
+      <start fov="100" projection="4" pan="-5.54" tilt="-0.57"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" nodeid="node2" heading="95.8" datetime="2026:09:17 10:53:27" longitude="" description="Манастир Свете Петке у Улију је женски манастир епархије рашко-призренске Српске православне цркве.&#xa;&#xa;Манастир је смештен у атару села Улије, изнад Лепосавића. Потиче из 13. века. Са благословом владике Артемија, конак је подигнут и проглашен за женски манастир. После суспензије владике Артемија, управа манастира је промењена, али је и даље остао женски манастир. Од 2013. године у манастиру живи свештеник са породицом. Доласком младих монахиња из манастира Кончул манастир Улије бива обновљен 2018. године и изграђена је нова црква уз благослов владике Рашко-призренског Теодосија. Манастир Света Петка, један од два женска манастира на северу Космета, вековима је на брду Градац, на 560 метара надморске висине подно висова Копаоника" source="" latitude="" tags="Ulije" title="Иконостас" customnodeid="" copyright="" comment="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label height="20" border="1" borderalpha="1" backgroundalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot target="" url="{node1}" id="Point01" title="Црква Св. Петке" pan="-174.37" description="" skinid="ht_node" tilt="-17.18"/>
+      <hotspot target="" url="{node3}" id="Point02" title="Звоник" pan="-184.68" description="" skinid="ht_node" tilt="-2.09"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0.000" level="1.000" nodechangekeep="1" pansize="10.000" loop="1" tiltsize="10.000" startmutedmobile="0" pan="-1.000" id="_background" field="90.000" mode="0" tilt="-1.000">
+        <source url="media/manastir Ulije.wav" mono="1"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" type="mesh" blendcolor="0x000000" zoomafteroutfov="40" delay="none" zoomfov="40" zoomafterinfov="140" zoomspeed="2" enabled="1" softedge="0" zoomin="7" blendtime="1" zoomout="0"/>
+    <autorotate returntohorizon="0.000" noderandom="1" useanimation="0" speed="0.100" startloaded="0" delay="10.00" nodedelay="60.00" nodefilter="" enabled="1" horizonfromdefview="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" rubberband="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" lockedkeyboard="0" contextvr="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="1" speedwheel="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input height="2322" levelbiashidpi="1.500" leveltilesize="510" levelbias="0.800" levelingroll="0" levelingpitch="0" width="2322" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2322" height="2322" predecode="0" preload="0"/>
+      <level width="1161" height="1161" predecode="0" preload="0"/>
+      <level width="580" height="580" predecode="0" preload="0"/>
+      <level width="290" height="290" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="195.8">
+      <start fov="100" projection="4" pan="-11.05" tilt="3.5"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" nodeid="node4" heading="195.8" datetime="2026:09:17 11:08:14" longitude="" description="Манастир Свете Петке у Улију је женски манастир епархије рашко-призренске Српске православне цркве.&#xa;&#xa;Манастир је смештен у атару села Улије, изнад Лепосавића. Потиче из 13. века. Са благословом владике Артемија, конак је подигнут и проглашен за женски манастир. После суспензије владике Артемија, управа манастира је промењена, али је и даље остао женски манастир. Од 2013. године у манастиру живи свештеник са породицом. Доласком младих монахиња из манастира Кончул манастир Улије бива обновљен 2018. године и изграђена је нова црква уз благослов владике Рашко-призренског Теодосија. Манастир Света Петка, један од два женска манастира на северу Космета, вековима је на брду Градац, на 560 метара надморске висине подно висова Копаоника" source="" latitude="" tags="Ulije" title="Црква Север" customnodeid="" copyright="" comment="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label height="20" border="1" borderalpha="1" backgroundalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot target="2.4/6.7/100.0" url="{node3}" id="Point01" title="Звоник" pan="-66.09" description="" skinid="ht_node" tilt="-0.79"/>
+      <hotspot target="" url="{node5}" id="Point02" title="Апсида" pan="-298" description="" skinid="ht_node" tilt="-2.83"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0.000" level="1.000" nodechangekeep="1" pansize="10.000" loop="1" tiltsize="10.000" startmutedmobile="0" pan="-1.000" id="_background" field="90.000" mode="0" tilt="-1.000">
+        <source url="media/manastir Ulije.wav" mono="1"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" type="mesh" blendcolor="0x000000" zoomafteroutfov="40" delay="none" zoomfov="40" zoomafterinfov="140" zoomspeed="2" enabled="1" softedge="0" zoomin="7" blendtime="1" zoomout="0"/>
+    <autorotate returntohorizon="0.000" noderandom="1" useanimation="0" speed="0.100" startloaded="0" delay="10.00" nodedelay="60.00" nodefilter="" enabled="1" horizonfromdefview="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" rubberband="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" lockedkeyboard="0" contextvr="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="1" speedwheel="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input height="2322" levelbiashidpi="1.500" leveltilesize="510" levelbias="0.800" levelingroll="0" levelingpitch="0" width="2322" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2322" height="2322" predecode="0" preload="0"/>
+      <level width="1161" height="1161" predecode="0" preload="0"/>
+      <level width="580" height="580" predecode="0" preload="0"/>
+      <level width="290" height="290" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="91.3">
+      <start fov="100" projection="4" pan="179.38" tilt="1.54"/>
+      <flyin fov="330" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" nodeid="node5" heading="91.3" datetime="2026:09:17 11:13:06" longitude="" description="Манастир Свете Петке у Улију је женски манастир епархије рашко-призренске Српске православне цркве.&#xa;&#xa;Манастир је смештен у атару села Улије, изнад Лепосавића. Потиче из 13. века. Са благословом владике Артемија, конак је подигнут и проглашен за женски манастир. После суспензије владике Артемија, управа манастира је промењена, али је и даље остао женски манастир. Од 2013. године у манастиру живи свештеник са породицом. Доласком младих монахиња из манастира Кончул манастир Улије бива обновљен 2018. године и изграђена је нова црква уз благослов владике Рашко-призренског Теодосија. Манастир Света Петка, један од два женска манастира на северу Космета, вековима је на брду Градац, на 560 метара надморске висине подно висова Копаоника" source="" latitude="" tags="Ulije" title="Апсида" customnodeid="" copyright="" comment="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label height="20" border="1" borderalpha="1" backgroundalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot target="" url="{node4}" id="Point01" title="Црква Север" pan="-204.27" description="" skinid="ht_node" tilt="-2.36"/>
+      <hotspot target="" url="{node6}" id="Point02" title="Црква Југ" pan="-157.11" description="" skinid="ht_node" tilt="-2.51"/>
+      <hotspot target="" url="{node7}" id="Point03" title="Конак" pan="-60.66" description="" skinid="ht_node" tilt="-12.2"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0.000" level="1.000" nodechangekeep="1" pansize="10.000" loop="1" tiltsize="10.000" startmutedmobile="0" pan="-1.000" id="_background" field="90.000" mode="0" tilt="-1.000">
+        <source url="media/manastir Ulije.wav" mono="1"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" type="mesh" blendcolor="0x000000" zoomafteroutfov="40" delay="none" zoomfov="40" zoomafterinfov="140" zoomspeed="2" enabled="1" softedge="0" zoomin="7" blendtime="1" zoomout="0"/>
+    <autorotate returntohorizon="0.000" noderandom="1" useanimation="0" speed="0.100" startloaded="0" delay="10.00" nodedelay="60.00" nodefilter="" enabled="1" horizonfromdefview="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" rubberband="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" lockedkeyboard="0" contextvr="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="1" speedwheel="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input height="2322" levelbiashidpi="1.500" leveltilesize="510" levelbias="0.800" levelingroll="0" levelingpitch="0" width="2322" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2322" height="2322" predecode="0" preload="0"/>
+      <level width="1161" height="1161" predecode="0" preload="0"/>
+      <level width="580" height="580" predecode="0" preload="0"/>
+      <level width="290" height="290" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="184.8">
+      <start fov="100" projection="4" pan="164.44" tilt="3.02"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" nodeid="node6" heading="184.8" datetime="2026:09:17 11:16:59" longitude="" description="Манастир Свете Петке у Улију је женски манастир епархије рашко-призренске Српске православне цркве.&#xa;&#xa;Манастир је смештен у атару села Улије, изнад Лепосавића. Потиче из 13. века. Са благословом владике Артемија, конак је подигнут и проглашен за женски манастир. После суспензије владике Артемија, управа манастира је промењена, али је и даље остао женски манастир. Од 2013. године у манастиру живи свештеник са породицом. Доласком младих монахиња из манастира Кончул манастир Улије бива обновљен 2018. године и изграђена је нова црква уз благослов владике Рашко-призренског Теодосија. Манастир Света Петка, један од два женска манастира на северу Космета, вековима је на брду Градац, на 560 метара надморске висине подно висова Копаоника" source="" latitude="" tags="Ulije" title="Црква Југ" customnodeid="" copyright="" comment="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label height="20" border="1" borderalpha="1" backgroundalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot target="" url="{node5}" id="Point01" title="Апсида" pan="-251.03" description="" skinid="ht_node" tilt="-2.36"/>
+      <hotspot target="" url="{node3}" id="Point02" title="Звоник" pan="-103.02" description="" skinid="ht_node" tilt="0.9"/>
+      <hotspot target="" url="{node7}" id="Point03" title="Конак" pan="-314.34" description="" skinid="ht_node" tilt="-5.73"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0.000" level="1.000" nodechangekeep="1" pansize="10.000" loop="1" tiltsize="10.000" startmutedmobile="0" pan="-1.000" id="_background" field="90.000" mode="0" tilt="-1.000">
+        <source url="media/manastir Ulije.wav" mono="1"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" type="mesh" blendcolor="0x000000" zoomafteroutfov="40" delay="none" zoomfov="40" zoomafterinfov="140" zoomspeed="2" enabled="1" softedge="0" zoomin="7" blendtime="1" zoomout="0"/>
+    <autorotate returntohorizon="0.000" noderandom="1" useanimation="0" speed="0.100" startloaded="0" delay="10.00" nodedelay="60.00" nodefilter="" enabled="1" horizonfromdefview="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" rubberband="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" lockedkeyboard="0" contextvr="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="1" speedwheel="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input height="2322" levelbiashidpi="1.500" leveltilesize="510" levelbias="0.800" levelingroll="0" levelingpitch="0" width="2322" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2322" height="2322" predecode="0" preload="0"/>
+      <level width="1161" height="1161" predecode="0" preload="0"/>
+      <level width="580" height="580" predecode="0" preload="0"/>
+      <level width="290" height="290" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="161.9">
+      <start fov="100" projection="4" pan="171.74" tilt="5.84"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" nodeid="node7" heading="161.9" datetime="2026:09:17 11:20:35" longitude="" description="Манастир Свете Петке у Улију је женски манастир епархије рашко-призренске Српске православне цркве.&#xa;&#xa;Манастир је смештен у атару села Улије, изнад Лепосавића. Потиче из 13. века. Са благословом владике Артемија, конак је подигнут и проглашен за женски манастир. После суспензије владике Артемија, управа манастира је промењена, али је и даље остао женски манастир. Од 2013. године у манастиру живи свештеник са породицом. Доласком младих монахиња из манастира Кончул манастир Улије бива обновљен 2018. године и изграђена је нова црква уз благослов владике Рашко-призренског Теодосија. Манастир Света Петка, један од два женска манастира на северу Космета, вековима је на брду Градац, на 560 метара надморске висине подно висова Копаоника" source="" latitude="" tags="Ulije" title="Конак" customnodeid="" copyright="" comment="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label height="20" border="1" borderalpha="1" backgroundalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot target="179.4/1.5/100.0" url="{node5}" id="Point01" title="Апсида" pan="-178.22" description="" skinid="ht_node" tilt="5.51"/>
+      <hotspot target="164.4/3.0/100.0" url="{node6}" id="Point02" title="Црква Југ" pan="-156.62" description="" skinid="ht_node" tilt="7.04"/>
+      <hotspot target="" url="{node8}" id="Point03" title="Капија" pan="-348.01" description="" skinid="ht_node" tilt="-7.51"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0.000" level="1.000" nodechangekeep="1" pansize="10.000" loop="1" tiltsize="10.000" startmutedmobile="0" pan="-1.000" id="_background" field="90.000" mode="0" tilt="-1.000">
+        <source url="media/manastir Ulije.wav" mono="1"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" type="mesh" blendcolor="0x000000" zoomafteroutfov="40" delay="none" zoomfov="40" zoomafterinfov="140" zoomspeed="2" enabled="1" softedge="0" zoomin="7" blendtime="1" zoomout="0"/>
+    <autorotate returntohorizon="0.000" noderandom="1" useanimation="0" speed="0.100" startloaded="0" delay="10.00" nodedelay="60.00" nodefilter="" enabled="1" horizonfromdefview="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" rubberband="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" lockedkeyboard="0" contextvr="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="1" speedwheel="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input height="2322" levelbiashidpi="1.500" leveltilesize="510" levelbias="0.800" levelingroll="0" levelingpitch="0" width="2322" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2322" height="2322" predecode="0" preload="0"/>
+      <level width="1161" height="1161" predecode="0" preload="0"/>
+      <level width="580" height="580" predecode="0" preload="0"/>
+      <level width="290" height="290" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="144.4">
+      <start fov="100" projection="4" pan="-176.32" tilt="2.14"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" nodeid="node8" heading="144.4" datetime="2026:09:17 11:22:54" longitude="" description="Манастир Свете Петке у Улију је женски манастир епархије рашко-призренске Српске православне цркве.&#xa;&#xa;Манастир је смештен у атару села Улије, изнад Лепосавића. Потиче из 13. века. Са благословом владике Артемија, конак је подигнут и проглашен за женски манастир. После суспензије владике Артемија, управа манастира је промењена, али је и даље остао женски манастир. Од 2013. године у манастиру живи свештеник са породицом. Доласком младих монахиња из манастира Кончул манастир Улије бива обновљен 2018. године и изграђена је нова црква уз благослов владике Рашко-призренског Теодосија. Манастир Света Петка, један од два женска манастира на северу Космета, вековима је на брду Градац, на 560 метара надморске висине подно висова Копаоника" source="" latitude="" tags="Ulije" title="Капија" customnodeid="" copyright="" comment="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label height="20" border="1" borderalpha="1" backgroundalpha="1" borderradius="1" textalpha="1" width="180" wordwrap="1" enabled="1" textcolor="0x000000" background="1" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot target="" url="{node7}" id="Point01" title="Конак" pan="-174.63" description="" skinid="ht_node" tilt="-2.94"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0.000" level="1.000" nodechangekeep="1" pansize="10.000" loop="1" tiltsize="10.000" startmutedmobile="0" pan="-1.000" id="_background" field="90.000" mode="0" tilt="-1.000">
+        <source url="media/manastir Ulije.wav" mono="1"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" type="mesh" blendcolor="0x000000" zoomafteroutfov="40" delay="none" zoomfov="40" zoomafterinfov="140" zoomspeed="2" enabled="1" softedge="0" zoomin="7" blendtime="1" zoomout="0"/>
+    <autorotate returntohorizon="0.000" noderandom="1" useanimation="0" speed="0.100" startloaded="0" delay="10.00" nodedelay="60.00" nodefilter="" enabled="1" horizonfromdefview="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" rubberband="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" contextprojections="0" lockedkeyboard="0" contextvr="1" sensitivity="8" simulatemass="1" dblclickfullscreen="0" zoomcentercursor="1" hideabout="1" speedwheel="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" tags="" title="Манастир Улије" copyright="" description="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
